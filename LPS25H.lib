@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LPS25H
+#
+DEF LPS25H U 0 40 Y Y 1 L N
+F0 "U" -400 1000 50 H V L CNN
+F1 "LPS25H" 0 0 50 H I L CNN
+F2 "LPS25H" 0 0 50 H I L CNN
+F3 "LPS25" 0 0 50 H I L CNN "MP"
+F4 "35.75 USD" 0 0 50 H I L CNN "Price"
+F5 "Artesyn" 0 0 50 H I L CNN "MF"
+F6 "None" 0 0 50 H I L CNN "Package"
+F7 "AC/DC Power Supply Single-OUT 24V 1.1A 25W 10-Pin" 0 0 50 H I L CNN "Description"
+F8 "Warning" 0 0 50 H I L CNN "Availability"
+DRAW
+P 2 0 0 10 -400 -700 -400 900 N
+P 2 0 0 10 -400 -700 600 -700 N
+P 2 0 0 10 600 -700 600 900 N
+P 2 0 0 10 600 900 -400 900 N
+X VDD 10 -600 -200 200 R 40 40 0 0 I 
+X GND@1 8 -600 100 200 R 40 40 0 0 I 
+X GND@2 9 -600 400 200 R 40 40 0 0 I 
+X INT 7 -600 800 200 R 40 40 0 0 B 
+X CS 6 800 800 200 L 40 40 0 0 B 
+X SA0 5 800 400 200 L 40 40 0 0 B 
+X SDA 4 800 100 200 L 40 40 0 0 B 
+X RGND 3 800 -200 200 L 40 40 0 0 B 
+X SCL 2 800 -600 200 L 40 40 0 0 B 
+X VDD_IO 1 -600 -600 200 R 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library
