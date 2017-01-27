@@ -1,0 +1,1 @@
+Picture of this logo was downloaded from Mikroelektronika (mikroe.com), only imported into KiCad as device for easy use.
