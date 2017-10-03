@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP STS5NF60L
-D Transistor N-MOSFET (general)
-K nmos n-mos n-mosfet transistor
-$ENDCMP
-#
-#End Doc Library

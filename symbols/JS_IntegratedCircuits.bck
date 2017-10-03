@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA3221
+D Bi-Directional,I2C Out Current/Voltage Monitor w/ Alerts
+K Current Voltage Monitor
+$ENDCMP
+#
+$CMP LT1076
+D Step-Down Switching Regulator
+K Step-Down regulator switching
+$ENDCMP
+#
+$CMP MAX1811
+D USB-Powered Li+ Charger
+K Li-Ion Li-Pol charger USB
+$ENDCMP
+#
+$CMP MCP41HVX1
+D 7/8-Bit Single, +36V (±18V) Digital POT with SPI Serial Interface and Volatile Memory
+K Pot SPI digital
+$ENDCMP
+#
+$CMP PAC1921
+D High-Side Power/Current Monitor with Analog Output and I2C
+K Power Current Monitor
+$ENDCMP
+#
+$CMP STM32F051K8
+D 32pin, ARM Cortex-M0 Access line MCU with 64 Kbytes Flash, 48 MHz CPU, motor control and CEC functions
+K ARM Cortex-M0
+$ENDCMP
+#
+$CMP STM32F405RG
+D 64pin, ARM Cortex-M4 core with DSP and FPU, 1 Mbyte Flash, 168 MHz CPU, ART Accelerator
+K ARM Cortex M4 DSP
+$ENDCMP
+#
+$CMP STM32F405VG
+D 100pin, ARM Cortex-M4 core with DSP and FPU, 1 Mbyte Flash, 168 MHz CPU, ART Accelerator, FSMC
+K ARM Cortex M4 DSP
+$ENDCMP
+#
+$CMP STM32L051K8
+D 32pin, Ultra-low-power ARM Cortex-M0+ MCU with 64 Kbytes Flash, 32 MHz CPU
+K ARM Cortex-M0+
+$ENDCMP
+#
+$CMP VNH5019
+D Automotive fully integrated H-bridge motor driver
+K motor h-bridge
+$ENDCMP
+#
+#End Doc Library

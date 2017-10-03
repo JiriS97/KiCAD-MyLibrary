@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LCD_ILI9341
+D LCD module with touchscreen and SD card socket
+K LCD TFT display touch
+$ENDCMP
+#
+#End Doc Library

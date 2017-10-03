@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP8266
+D WiFi module
+K wifi
+$ENDCMP
+#
+$CMP NRF24L01+
+D 2.4GHz Transceiver
+K 2.4GHz transceiver
+$ENDCMP
+#
+#End Doc Library

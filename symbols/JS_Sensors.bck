@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HTS221
+D Capacitive digital sensor for relative humidity and temperature
+K humidity temperature
+$ENDCMP
+#
+$CMP LPS25H
+D MEMS pressure sensor: 260-1260 hPa absolute digital output barometer
+K MEMS pressure barometer
+$ENDCMP
+#
+#End Doc Library

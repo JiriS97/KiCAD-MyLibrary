@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Button
+D Generic push button
+K button
+$ENDCMP
+#
+#End Doc Library
