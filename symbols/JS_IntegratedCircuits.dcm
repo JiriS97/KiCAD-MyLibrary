@@ -15,6 +15,11 @@ D USB-Powered Li+ Charger
 K Li-Ion Li-Pol charger USB
 $ENDCMP
 #
+$CMP MC34063
+D 1.5A Step-Up/Down/Invereing Switching regulator
+K Step-Up Step-Down Switching Regulator
+$ENDCMP
+#
 $CMP MCP41HVX1
 D 7/8-Bit Single, +36V (±18V) Digital POT with SPI Serial Interface and Volatile Memory
 K Pot SPI digital

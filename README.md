@@ -46,6 +46,7 @@ in default KiCAD libraries.
     | STM32F405VG | 100pin ARM Cortex-M4 MCU | KiCAD | 
     | STM32L051K8 | 32pin ARM Cortex-M0+ MCU with ultra low power capability | KiCAD | 
     | VNH5019 | automotive H-bridge motor driver | KiCAD | 
+    | MC34063 | step-up/down/inverting switching regulator | KiCAD |
 
 
 * **JS_Sensors**
