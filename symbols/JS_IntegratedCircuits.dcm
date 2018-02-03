@@ -50,6 +50,16 @@ D 32pin, Ultra-low-power ARM Cortex-M0+ MCU with 64 Kbytes Flash, 32 MHz CPU
 K ARM Cortex-M0+
 $ENDCMP
 #
+$CMP TC7660
+D Charge Pump DC-to-DC Voltage Converter
+K Charge Pump Converter
+$ENDCMP
+#
+$CMP TLC5947
+D 24-Channel, 12-Bit PWM LED Driver With Internal Oscillator
+K PWM, LED
+$ENDCMP
+#
 $CMP VNH5019
 D Automotive fully integrated H-bridge motor driver
 K motor h-bridge

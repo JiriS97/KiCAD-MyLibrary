@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DS18B20
+D Programmable Resolution 1-Wire Digital Thermometer
+K Thermometer 1-Wire
+$ENDCMP
+#
 $CMP INA3221
 D Bi-Directional,I2C Out Current/Voltage Monitor w/ Alerts
 K Current Voltage Monitor
@@ -13,6 +18,11 @@ $ENDCMP
 $CMP MAX1811
 D USB-Powered Li+ Charger
 K Li-Ion Li-Pol charger USB
+$ENDCMP
+#
+$CMP MC34063
+D 1.5A Step-Up/Down/Invereing Switching regulator
+K Step-Up Step-Down Switching Regulator
 $ENDCMP
 #
 $CMP MCP41HVX1
@@ -43,6 +53,16 @@ $ENDCMP
 $CMP STM32L051K8
 D 32pin, Ultra-low-power ARM Cortex-M0+ MCU with 64 Kbytes Flash, 32 MHz CPU
 K ARM Cortex-M0+
+$ENDCMP
+#
+$CMP TC7660
+D Charge Pump DC-to-DC Voltage Converter
+K Charge Pump Converter
+$ENDCMP
+#
+$CMP TLC5947
+D 24-Channel, 12-Bit PWM LED Driver With Internal Oscillator
+K PWM, LED
 $ENDCMP
 #
 $CMP VNH5019

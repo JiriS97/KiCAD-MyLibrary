@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP K78xx
-D Switching DC/DC converter
-K power switching regulator 78
+$CMP RGB_LED_CUBE_PART
+D LED RGB, common anode (pin 1)
+K led rgb diode
 $ENDCMP
 #
 $CMP STS5NF60L
