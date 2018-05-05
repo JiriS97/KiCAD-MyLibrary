@@ -15,4 +15,9 @@ D MEMS pressure sensor: 260-1260 hPa absolute digital output barometer
 K MEMS pressure barometer
 $ENDCMP
 #
+$CMP TMP36
+D Low Voltage Temperature Sensors
+K Thermometer
+$ENDCMP
+#
 #End Doc Library

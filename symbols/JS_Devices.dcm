@@ -10,6 +10,11 @@ D N-channel STripFET™ Power MOSFET
 K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
+$CMP TPS783
+D 3V0, 150-mA LDO, Ultralow quiescent current, SOT-23-5
+K linear low dropout Regulator
+$ENDCMP
+#
 $CMP TRANSIL
 D Diode, alternativ symbol
 K diode

@@ -10,4 +10,9 @@ D N-channel STripFET™ Power MOSFET
 K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
+$CMP TRANSIL
+D Diode, alternativ symbol
+K diode
+$ENDCMP
+#
 #End Doc Library

@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DOGM128E
+D DOGM Graphical display
+K display I2C
+$ENDCMP
+#
 $CMP LCD_ILI9341
 D LCD module with touchscreen and SD card socket
 K LCD TFT display touch

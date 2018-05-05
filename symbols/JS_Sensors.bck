@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DS18B20
+D Programmable Resolution 1-Wire Digital Thermometer
+K Thermometer 1-Wire
+$ENDCMP
+#
 $CMP HTS221
 D Capacitive digital sensor for relative humidity and temperature
 K humidity temperature
